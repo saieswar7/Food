@@ -1,4 +1,4 @@
-[{
+{food:[{
   "id": 1,
   "photo": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
   "Food": "Juice - Grape, White",
@@ -59,3 +59,4 @@
   "Rating": 1,
   "Hotel": "Hormel Foods Corporation"
 }]
+}
